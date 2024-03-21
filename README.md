@@ -6,3 +6,5 @@
 ![userlogin](https://github.com/shanitahgithub/API-Test/assets/142230234/b9d51dd7-446d-4f47-9a48-ff48e74eb8f9)
 ![userdel](https://github.com/shanitahgithub/API-Test/assets/142230234/49affb7e-ab76-43dd-b329-d23c8312eea8)
 ![Uploading USER.JPG…]()
+![get1](https://github.com/shanitahgithub/API-Test/assets/142230234/c5312c9c-eed4-45d4-96bb-cacd5e025663)
+![get2](https://github.com/shanitahgithub/API-Test/assets/142230234/975ce6ca-73c3-4804-a7de-885db7beed72)
